@@ -15,6 +15,7 @@
 - SensorManager
 
 ## ScreenShots
+![Screenshot_20230902-163408](https://github.com/Shivu1126/Android-Compass-App/assets/99593409/1a15a680-b77c-45de-a4e6-646391c79e9d)
 
 ## Contributions
 **If you have any questions or suggestions, feel free to contact us at siva11vkavis@gmail.com or shiv1126yt@gmail.com .**
